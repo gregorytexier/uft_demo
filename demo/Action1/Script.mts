@@ -8,6 +8,9 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement"
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("dvantage DEMO").Click @@ script infofile_;_ZIP::ssf8.xml_;_
 
 
+'add some lines
+
+
 
 
 
