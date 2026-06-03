@@ -5,4 +5,3 @@ RunAction "Open Order", oneIteration
 RunAction "Close App", oneIteration
 RunAction "Delete Order", oneIteration
 RunAction "Select Flight", oneIteration
-RunAction "Order the flight", oneIteration

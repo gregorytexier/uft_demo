@@ -19,7 +19,6 @@ Open Order=Action5\Script.mts
 Close App=Action6\Script.mts
 Delete Order=Action7\Script.mts
 Select Flight=Action8\Script.mts
-Order the flight=Action9\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -82,6 +81,3 @@ Action7\ObjectRepository.bdb=
 Action8\Script.mts=
 Action8\Resource.mtr=
 Action8\ObjectRepository.bdb=
-Action9\Script.mts=
-Action9\Resource.mtr=
-Action9\ObjectRepository.bdb=
